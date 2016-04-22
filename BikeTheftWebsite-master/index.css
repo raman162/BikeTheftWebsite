@@ -22,7 +22,12 @@ h2 {
     padding: 0.2em;
 }
 
-p {
+h3 {
+    font-size: 2em;
+    padding: 0.2em;
+}
+
+p, ul {
     padding: 1em;
     line-height: 1.4em;
 }
