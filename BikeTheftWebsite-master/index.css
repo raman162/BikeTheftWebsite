@@ -12,7 +12,10 @@ body {
 h1 {
     font-size: 4em;
     text-align: center;
-    padding: 0.2em;
+    padding: 0.8em;
+    margin-top: 0.3em;
+    background-color: lightgreen;
+    color: darkslategray;
 }
 
 h2 {
@@ -25,19 +28,47 @@ h2 {
 h3 {
     font-size: 2em;
     padding: 0.2em;
+    padding-top: 1em;
+    color: darkslategray;
+    text-align: center;
 }
 
 p, ul {
     padding: 1em;
     line-height: 1.4em;
+    font-size: 1.5em;
 }
 
-h3{
-    font-size: 1.5em;
+.secure {
+    margin-left: 25%;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    font-size: 1.3em;
+}
+
+.icon {
+    text-align: center;
+    height: 15%;
+    width: 15%;
+    margin: 0.5em;
+}
+
+.intro {
     text-align: center;
 }
 
-.container{
-    margin: auto;
-    max-width: 800px
+.wheelpoint {
+    width: 0.8em;
+    height: 0.8em;
+    padding: 0.4em;
+    padding-bottom: 0em;
 }
+
+.section {
+    margin: 20%;
+    margin-top: 2em;
+    margin-bottom: 0em;
+    background-color: lightgreen;
+}
+
