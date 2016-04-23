@@ -29,4 +29,15 @@ h3 {
 
 p, ul {
     padding: 1em;
+    line-height: 1.4em;
+}
+
+h3{
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.container{
+    margin: auto;
+    max-width: 800px
 }
