@@ -61,6 +61,8 @@ p, ul {
 }
 
 .section {
+    clear: left;
+    clear: right;
     margin: 20%;
     margin-top: 2em;
     margin-bottom: 0em;
@@ -74,6 +76,21 @@ p, ul {
     max-width: 90%;
     text-align: center;
 }
+
+.map-comparison{
+    max-width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+.map-comparison iframe{
+    height: 600px;
+    margin-left: 1em;
+    margin-right: 1em;
+    max-width: 95%;
+    padding: 1em 1em 1em 1em;
+    width: 425px;
+}
+
 
 .twttr{
     margin: 0 auto;
