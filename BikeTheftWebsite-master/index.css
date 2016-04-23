@@ -10,43 +10,43 @@ body {
 }
 
 h1 {
+    background-color: lightgreen;
+    color: darkslategray;
     font-family: 'Alegreya SC', serif;
     font-size: 4em;
     text-align: center;
     padding: 0.8em;
     margin-top: 0.3em;
-    background-color: lightgreen;
-    color: darkslategray;
 }
 
 h2 {
+    color: darkslategray;
     font-family: 'Alegreya SC', serif;
     font-size: 2em;
     padding: 0.2em;
     padding-top: 1em;
-    color: darkslategray;
     text-align: center;
 }
 
 p, ul {
-    padding: 1em;
-    line-height: 1.4em;
     font-size: 1.5em;
+    line-height: 1.4em;
+    padding: 1em;
 }
 
 .secure {
+    font-size: 1.3em;
+    height: 50%;
     margin-left: 25%;
     text-align: center;
     width: 50%;
-    height: 50%;
-    font-size: 1.3em;
 }
 
 .icon {
-    text-align: center;
     height: 15%;
-    width: 15%;
     margin: 0.5em;
+    text-align: center;
+    width: 15%;
 }
 
 .intro {
@@ -72,8 +72,8 @@ p, ul {
 #stolenBikeImage{
     display: block;
     margin: auto;
-    padding: 1em 0.5em 1em 0.5em;
     max-width: 90%;
+    padding: 1em 0.5em 1em 0.5em;
     text-align: center;
 }
 
