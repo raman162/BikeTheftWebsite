@@ -16,7 +16,6 @@ h1 {
     font-size: 4em;
     text-align: center;
     padding: 0.8em;
-    margin-top: 0.3em;
 }
 
 h2 {
@@ -32,6 +31,24 @@ p, ul {
     font-size: 1.5em;
     line-height: 1.4em;
     padding: 1em;
+}
+
+a:hover {
+  background-color: lightgreen;  
+}
+
+nav {
+    background-color: #eee;
+}
+
+.tab {
+    display: inline-block;
+    color: darkslategray;
+    font-family: 'Alegreya SC', serif;
+    font-size: 2em;
+    text-align: center;
+    margin-left: 6em;
+    padding: 0.5em;
 }
 
 .secure {
