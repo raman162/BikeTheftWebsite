@@ -34,11 +34,13 @@ p, ul {
 }
 
 a:hover {
-  background-color: lightgreen;  
+  background-color: #90EE90;  
 }
 
 nav {
     background-color: #eee;
+    position: static;
+    
 }
 
 .tab {
@@ -47,8 +49,8 @@ nav {
     font-family: 'Alegreya SC', serif;
     font-size: 2em;
     text-align: center;
-    margin-left: 6em;
     padding: 0.5em;
+    margin-left: 3em;
 }
 
 .secure {
@@ -83,7 +85,7 @@ nav {
     margin: 20%;
     margin-top: 2em;
     margin-bottom: 0em;
-    background-color: lightgreen;
+    background-color: #90EE90;
 }
 
 #stolenBikeImage{
