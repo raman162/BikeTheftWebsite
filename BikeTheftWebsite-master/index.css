@@ -27,6 +27,14 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    font-family: 'Alegreya SC', serif;
+    font-size: 2em;
+    padding: 0.2em;
+    padding-top: 1em;
+    
+}
+
 p, ul {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -41,6 +49,14 @@ nav {
     background-color: #eee;
     position: static;
     
+}
+
+button {
+    position: ;
+    padding: 1em;
+    border-radius: 1.2em;
+    margin: 3em;
+    font-size: 1.5em;
 }
 
 #stolenBikeImage {
