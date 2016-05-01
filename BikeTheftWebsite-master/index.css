@@ -52,7 +52,8 @@ nav {
 }
 
 button {
-    position: ;
+    display: block;
+    position: absolute;
     padding: 1em;
     border-radius: 1.2em;
     margin: 3em;
@@ -67,7 +68,7 @@ button {
     text-align: center;
 }
 
-#theftcircle, #heatmap{
+#theftcircle, #heatmap, .bars{
     display: block;
     margin: auto;
     max-width: 70%;
