@@ -68,6 +68,11 @@ nav {
     text-align: center;
 }
 
+#fullreport {
+    font-size: 1em;
+    margin-left: 1.5em;
+}
+
 .tab {
     display: inline-block;
     color: darkslategray;
