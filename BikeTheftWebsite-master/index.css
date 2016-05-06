@@ -60,7 +60,7 @@ nav {
     text-align: center;
 }
 
-#theftcircle, #heatmap, .bars{
+#theftcircle, #heatmap, .bars {
     display: block;
     margin: auto;
     max-width: 70%;
